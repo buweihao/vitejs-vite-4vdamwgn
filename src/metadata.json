@@ -1,0 +1,5 @@
+{
+  "name": "CanvasPDF Editor",
+  "description": "A visual PDF editor allowing text and image placement, rotation, resizing, and export to PDF.",
+  "requestFramePermissions": []
+}
