@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { EditorElement } from '../types';
+import type { EditorElement } from '../types';
 import { ROTATION_STEPS, AVAILABLE_FONTS } from '../constants';
 import { RotateCw, Type as TypeIcon, Trash2, Layers, Play, Info, Type } from 'lucide-react';
 

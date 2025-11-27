@@ -2,7 +2,7 @@
 import React, { useState, useCallback } from 'react';
 import html2canvas from 'html2canvas';
 import { jsPDF } from 'jspdf';
-import { EditorElement } from './types';
+import type { EditorElement } from './types';
 import { Toolbar } from './components/Toolbar';
 import { PropertiesPanel } from './components/PropertiesPanel';
 import { Canvas } from './components/Canvas';

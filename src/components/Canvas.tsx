@@ -1,6 +1,6 @@
 
 import React, { useRef, useState, useEffect } from 'react';
-import { EditorElement } from '../types';
+import type { EditorElement } from '../types';
 import { A4_WIDTH_PX, A4_HEIGHT_PX } from '../constants';
 import { Maximize } from 'lucide-react';
 
